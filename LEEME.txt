@@ -1,0 +1,21 @@
+DELICIOUS MONSTER — VERSIÓN FINAL
+
+Cambios de esta versión:
+- Se reemplazó el logo anterior por el nuevo logo proporcionado.
+- El nuevo logo está integrado directamente dentro de HTML y PHP.
+- El código QR ahora aparece dentro de “Productos y servicios” como MENÚ DIGITAL.
+- El QR ya no aparece en la sección de contacto.
+- Se mantiene la imagen del local como fondo visual suave.
+- Se mantiene la imagen gastronómica adicional.
+- No se necesitan carpetas de imágenes para abrir el HTML.
+
+Para verlo:
+1. Descomprime el ZIP.
+2. Abre DeliciousMonster.html con Chrome o Edge.
+
+Para PHP:
+1. Coloca index.php en htdocs de XAMPP.
+2. Abre la carpeta desde localhost.
+
+
+V4: QR ubicado en Productos y servicios como menú digital.
